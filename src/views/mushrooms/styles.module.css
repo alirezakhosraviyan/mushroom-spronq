@@ -1,0 +1,17 @@
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+}
+
+.mushrooms-filters {
+    position: absolute;
+    z-index: 1000;
+    top: 5px;
+    right: 5px;
+}
+
+.mushrooms-map {
+}

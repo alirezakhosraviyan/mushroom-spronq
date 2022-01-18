@@ -1,0 +1,14 @@
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 0;
+    font-size: 12px;
+    border: var(--background) solid 1px;
+    border-radius: 2px;
+}
+
+.main-container h3 {
+    margin: 8px 0;
+}
